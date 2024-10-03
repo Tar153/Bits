@@ -1,4 +1,4 @@
-# Bits
+# BitsTonboxBot
 
 > 🇺🇸 README available in English [here](README-EN.md)
 
